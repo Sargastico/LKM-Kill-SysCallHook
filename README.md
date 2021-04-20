@@ -4,7 +4,7 @@ LKM (linux kernel module) to hook syscall functions
 
 Build the .ko (kernel object):
 ```
-git clone https://github.com/Sargastico/LKM-Sys_Kill-Hook.git && cd LKM-Sys_Kill-Hook && make
+git clone https://github.com/Sargastico/LKM-Kill-SysCallHook.git && cd LKM-Kill-SysCallHook && make
 ```
 
 Load the kernel module:

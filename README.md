@@ -1,4 +1,4 @@
-# LKM-SyscallTableHook
+# LKM-Kill-SysCallHook 
 LKM (linux kernel module) to hook syscall functions
 
 
